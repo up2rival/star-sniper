@@ -34,7 +34,7 @@ print(f'''
 data=requests.get("https://raw.githubusercontent.com/up2rival/star-sniper/main/meta.json").json()
 os.system("title Star Sniper - " + data["credits"] + " - " + data["version"])
 if data["version"] != version:
-    print(f"{Fore.WHITE}[{Fore.YELLOW}STAR{Fore.WHITE}-{Fore.YELLOW}SNIPER{Fore.WHITE}] {Fore.YELLOW}- {Fore.WHITE}UPDATE REQUIRED {Fore.YELLOW}" + data["version"])
+    print(f"{Fore.WHITE}[{Fore.YELLOW}STAR{Fore.WHITE}-{Fore.YELLOW}SNIPER{Fore.WHITE}] {Fore.YELLOW}- {Fore.WHITE}ERROR CODE {Fore.YELLOW}4")
     os.system("pause >null") 
     exit()
 try: 
