@@ -35,7 +35,7 @@ Error Code 2: `Your Discord Token is invalid`
 
 Error Code 3: `You don't have access to the channel you want to snipe in`
 
-Error Code 4: `You need to update. Delete your current instalation and reinstall`
+Error Code 4: `You need to update. Delete your current installation and reinstall`
 
 ----------------------------------
 
