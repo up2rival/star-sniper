@@ -16,4 +16,4 @@
 
 ----------------------------------
 
-**Star Sniper**
+Download the newest release from [here](https://github.com/up2rival/star-sniper/releases/)
