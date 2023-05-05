@@ -20,10 +20,18 @@
 
 2.Open the [config.json](https://github.com/up2rival/star-sniper/blob/main/config.json) file
 
-3.Insert your [Discord Token](https://www.youtube.com/watch?v=YEgFvgg7ZPI) inbetween the quotes
+3.Replace DISCORD.TOKEN.HERE with your [Discord Token](https://www.youtube.com/watch?v=YEgFvgg7ZPI)
 
 4.Replace 00000000000000 with the [Channel ID](https://www.youtube.com/watch?v=YjiQ7CajAgg) you want to snipe in
 
 5.Open the EXE File and you will now be sniping links from that channel
 
 6.To close Star-Sniper simpley close the exe
+
+
+----------------------------------
+
+Error Code 1: `Your config.json file is missing or confirgured incorrectly`
+Error Code 2: `Your Discord Token is invalid`
+Error Code 3: `You don't have access to the channel you want to snipe in`
+Error Code 4: `You need to update. Delete your current instalation and reinstall`
