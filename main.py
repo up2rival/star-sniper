@@ -68,7 +68,6 @@ async def on_ready():
 @starsniper.event
 async def on_message(message):
     if message.channel.id == channel:
-        print(message.content)
         if "privateServerLinkCode" in message.content:
             os.system('start "" ' + re.search("(?P<url>https?://[^\s]+)", message.content).group("url"))
             print(f"{Fore.WHITE}[{Fore.YELLOW}STAR{Fore.WHITE}-{Fore.YELLOW}SNIPER{Fore.WHITE}] {Fore.YELLOW}- {Fore.WHITE}SNIPED LINK IN {Fore.YELLOW}{message.id}")
