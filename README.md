@@ -12,3 +12,6 @@
     <a href="https://github.com/up2rival/Star-Sniper/issues">Request Feature</a>
   </p>
 </div>
+
+
+---------------------------------
