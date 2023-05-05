@@ -39,6 +39,6 @@ Error Code 4: `You need to update. Delete your current installation and reinstal
 
 ----------------------------------
 
-Donate via Bitcoin: 
+Donate via Bitcoin: bc1qdg98u23ncn7kkxavxsl5cu0t6c5v3z3m9pxwf4
 
-Donate via Ethereum: 
+Donate via Ethereum: 0x0ACb0d472648cB983253B0fC3c87638DC3cc68EC
