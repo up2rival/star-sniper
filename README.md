@@ -16,4 +16,9 @@
 
 ----------------------------------
 
-Download the newest release from [here](https://github.com/up2rival/star-sniper/releases/)
+1.Download the newest release from [here](https://github.com/up2rival/star-sniper/releases/)
+2.Open the [config.json](https://github.com/up2rival/star-sniper/blob/main/config.json) file
+3.Insert your [Discord Token](https://www.youtube.com/watch?v=YEgFvgg7ZPI) inbetween the quotes
+4.Replace 00000000000000 with the [Channel ID](https://www.youtube.com/watch?v=YjiQ7CajAgg) you want to snipe in config.json
+5.Open the EXE File and you will now be sniping invites from that channel
+6.To close Star-Sniper simpley close the exe
