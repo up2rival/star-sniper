@@ -32,6 +32,9 @@
 ----------------------------------
 
 Error Code 1: `Your config.json file is missing or confirgured incorrectly`
+
 Error Code 2: `Your Discord Token is invalid`
+
 Error Code 3: `You don't have access to the channel you want to snipe in`
+
 Error Code 4: `You need to update. Delete your current instalation and reinstall`
