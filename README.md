@@ -15,7 +15,7 @@
 
 ----------------------------------
 
-https://streamable.com/6iml4x
+<video src="https://streamable.com/6iml4x" controls="controls" style="max-width: 730px;"></video>
 
 ----------------------------------
 
