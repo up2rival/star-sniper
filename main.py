@@ -57,7 +57,7 @@ if requests.get(f"https://discord.com/api/channels/{channel}/messages", headers=
 
 starsniper = commands.Bot(
     command_prefix="Star-Sniper$",
-    activity=discord.Streaming(name="Star Sniper", url="https://twitch.tv/starsniper"),
+    activity=discord.Streaming(name=data["rpc"], url="https://twitch.tv/starsniper"),
     self_bot=True
 )
 
@@ -69,7 +69,7 @@ async def on_ready():
 async def on_message(message):
     if message.channel.id == channel:
         print(message.content)
-        if "https://www.roblox.com/games/2788229376?privateServerLinkCode=" in message.content:
+        if "privateServerLinkCode" in message.content:
             os.system('start "" ' + re.search("(?P<url>https?://[^\s]+)", message.content).group("url"))
             print(f"{Fore.WHITE}[{Fore.YELLOW}STAR{Fore.WHITE}-{Fore.YELLOW}SNIPER{Fore.WHITE}] {Fore.YELLOW}- {Fore.WHITE}SNIPED LINK IN {Fore.YELLOW}{message.id}")
 
