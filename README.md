@@ -22,8 +22,8 @@
 
 3.Insert your [Discord Token](https://www.youtube.com/watch?v=YEgFvgg7ZPI) inbetween the quotes
 
-4.Replace 00000000000000 with the [Channel ID](https://www.youtube.com/watch?v=YjiQ7CajAgg) you want to snipe in config.json
+4.Replace 00000000000000 with the [Channel ID](https://www.youtube.com/watch?v=YjiQ7CajAgg) you want to snipe in
 
-5.Open the EXE File and you will now be sniping invites from that channel
+5.Open the EXE File and you will now be sniping links from that channel
 
 6.To close Star-Sniper simpley close the exe
