@@ -29,7 +29,7 @@
 
 ----------------------------------
 
-Error Code 1: `Your config.json file is missing or confirgured incorrectly`
+Error Code 1: `Your config.json file is missing or configured incorrectly`
 
 Error Code 2: `Your Discord Token is invalid`
 
